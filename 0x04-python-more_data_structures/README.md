@@ -21,3 +21,8 @@
 </tr>
 
 </table>
+
+<footer>
+ <p>&copy; - 2022 - ALX Software Engineering Projects</p>
+ <small>Author: Aniebiet Afia</small>
+ </footer
