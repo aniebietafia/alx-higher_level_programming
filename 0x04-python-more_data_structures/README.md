@@ -23,6 +23,6 @@
 </table>
 
 <footer>
- <p>&copy; - 2022 - ALX Software Engineering Projects</p>
- <small>Author: Aniebiet Afia</small>
+ <p>&copy;2022 - ALX Software Engineering Projects</p>
+ <small>Author: <strong>Aniebiet Afia</strong></small>
  </footer
