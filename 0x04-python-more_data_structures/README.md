@@ -4,4 +4,15 @@
   <th>Tasks</th>
   <th>Activity</th>
  </tr>
+
+<tr>
+<td>Task 0</td>
+<td>Write a function that computes the square value of all integers of a matrix.</td>
+</tr>
+
+<tr>
+<td>Task 1</td>
+<td>Write a function that replaces all occurrences of an element by another in a new list.</td>
+</tr>
+
 </table>
