@@ -1,5 +1,9 @@
 #!/usr/bin/python3
+# 0-square.py by Aniebiet Afia
+"""Defines a square """
+
+
+
 class Square:
-    """Class Square that defines a square.
-    """
+    """Does nothing"""
     pass
