@@ -10,3 +10,16 @@
 - Your code should use the pycodestyle (version 2.8.*)
 - All your files must be executable
 - The length of your files will be tested using wc
+
+<table>
+  <tr>
+    <th>Project Folders</th>
+    <th>Project Description</th>
+  </tr>
+  
+  <tr>
+    <td>0x00-python-hello_world</td>
+    <td>Basics of Python</td>
+  </tr>
+ 
+  </table>
