@@ -31,5 +31,10 @@
     <td>0x02-python-import_modules</td>
     <td>import functions, create modules and using command line arguments in Python</td>
   </tr>
+  
+  <tr>
+    <td>0x03-python-data_structures</td>
+    <td>lists, tuples and strings in Python</td>
+  </tr>
  
   </table>
