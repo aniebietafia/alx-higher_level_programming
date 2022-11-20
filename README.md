@@ -21,5 +21,10 @@
     <td>0x00-python-hello_world</td>
     <td>Variables, basic commands (print) and strings with Python</td>
   </tr>
+  
+  <tr>
+    <td>0x01-python-if_else_loops_functions</td>
+    <td>if/else statements, loops, range and functions in Python</td>
+  </tr>
  
   </table>
