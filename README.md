@@ -19,7 +19,7 @@
   
   <tr>
     <td>0x00-python-hello_world</td>
-    <td>Basics of Python</td>
+    <td>Variables, basic commands (print) and strings with Python</td>
   </tr>
  
   </table>
