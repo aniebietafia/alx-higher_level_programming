@@ -10,3 +10,31 @@
 - Your code should use the pycodestyle (version 2.8.*)
 - All your files must be executable
 - The length of your files will be tested using wc
+
+<table>
+  <tr>
+    <th>Project Folders</th>
+    <th>Project Description</th>
+  </tr>
+  
+  <tr>
+    <td>0x00-python-hello_world</td>
+    <td>Variables, basic commands (print) and strings with Python</td>
+  </tr>
+  
+  <tr>
+    <td>0x01-python-if_else_loops_functions</td>
+    <td>if/else statements, loops, range and functions in Python</td>
+  </tr>
+  
+  <tr>
+    <td>0x02-python-import_modules</td>
+    <td>import functions, create modules and using command line arguments in Python</td>
+  </tr>
+  
+  <tr>
+    <td>0x03-python-data_structures</td>
+    <td>lists, tuples and strings in Python</td>
+  </tr>
+ 
+  </table>
