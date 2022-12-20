@@ -1,10 +1,10 @@
 #!/usr/bin/node
 
 function factorial(number) {
-	if (Number.isNaN(number) || (number === 1) {
+	if (Number.isNaN(number) || (number === 0) {
 		return 1;
 	} else {
-		return factorial(number - 1) * number;
+		return number * factorial(number - 1);
 	}
 }
 console.log(factorial(Number(process.argv[2])));
