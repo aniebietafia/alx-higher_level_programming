@@ -2,7 +2,7 @@
 
 let total = 0;
 function add (a, b) {
-  total = a + b;
+  total = Number(a) + Number(b);
   console.log(total);
 }
-add(1, 7);
+add(process.argv[2], process.argv[3]);
