@@ -1,6 +1,6 @@
 # Python - Object-relational mapping
 
-# Learning Objectives
+## Learning Objectives
 
 * How to connect to a MySQL database from a Python script
 * How to `SELECT` rows in a MySQL table from a Python script
